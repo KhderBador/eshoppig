@@ -1,1 +1,1 @@
-# eshoppig
+# coding-project-template
